@@ -38,7 +38,6 @@ with open(file_to_load) as election_data:
         #Add the total vote count
         total_votes += 1
         #print(row)
-        
         # Get the candidates names from each row
         candidate_name = row[2]
         
@@ -75,7 +74,8 @@ with open(file_to_save, "w") as txt_file:
         # Calculate the percentage of votes.
         vote_percentage = float(votes) / float(total_votes) * 100
         # Print the candidate name and percentage of votes.
-        candidate_results = (f"{candidate_name}: {vote_percentage:.1f}% ({votes})\\n")
+        candidate_results = (f"{candidate_name}: {vote_percentage:.1f}% ({votes})\n")
+
    
         print(candidate_results)
         #  Save the candidate results to our text file.
