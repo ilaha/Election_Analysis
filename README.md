@@ -34,7 +34,7 @@
   - Diana DeGette received 73.8% and 272892 of votes
   - Raymon Anthony Doane received 3.1% and 11606 number of votes.
 
-###_The Winner of the Election is Diana DeGette with 272, 892 votes which is %73.8 of the total votes._
+### _The Winner of the Election is Diana DeGette with 272, 892 votes which is %73.8 of the total votes._
 
 - There are three counties and Denver has the highest percentage of votes, see the breakdown below:
  - Jefferson:  10.5% ( 38,855)
